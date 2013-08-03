@@ -20,10 +20,10 @@
   "main": "./lib/airplay",
   "dependencies": {
     "plist": ">=0.2.1",
-    "mdns": ">=0.0.7"
+    "mdns": ">=0.0.7",
+    "bplist-parser": "0.0.4"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "engines": {
     "node": ">= 0.5.x"
   },
